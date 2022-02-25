@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Testing
 
-You can use the [editor on GitHub](https://github.com/YuMingChang/yumingchang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+IN
+{% NONO_include_relative test.html %}
+CLUDE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+INCLUDE
+{% include_relative <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our beloved sunshine 🥰💛<a href="https://twitter.com/hashtag/DiscoveryChannelKorea?src=hash&amp;ref_src=twsrc%5Etfw">#DiscoveryChannelKorea</a><a href="https://twitter.com/hashtag/OffTheGrid?src=hash&amp;ref_src=twsrc%5Etfw">#OffTheGrid</a><a href="https://twitter.com/hashtag/OurBelovedSummer?src=hash&amp;ref_src=twsrc%5Etfw">#OurBelovedSummer</a><a href="https://twitter.com/hashtag/KimDaMi?src=hash&amp;ref_src=twsrc%5Etfw">#KimDaMi</a> <a href="https://twitter.com/hashtag/%EA%B9%80%EB%8B%A4%EB%AF%B8?src=hash&amp;ref_src=twsrc%5Etfw">#김다미</a> <a href="https://t.co/y7tEEL8Tmn">pic.twitter.com/y7tEEL8Tmn</a></p>&mdash; DamShik_Daily (@DamShik_Daily) <a href="https://twitter.com/DamShik_Daily/status/1497205526710521857?ref_src=twsrc%5Etfw">February 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> %}
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuMingChang/yumingchang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+NOWAY
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I mean let’s not forget this one 💗 <a href="https://twitter.com/hashtag/OurBelovedSummer?src=hash&amp;ref_src=twsrc%5Etfw">#OurBelovedSummer</a> <a href="https://twitter.com/hashtag/ChoiWooSik?src=hash&amp;ref_src=twsrc%5Etfw">#ChoiWooSik</a> <a href="https://twitter.com/hashtag/ChoiwWooshik?src=hash&amp;ref_src=twsrc%5Etfw">#ChoiwWooshik</a> <a href="https://twitter.com/hashtag/KimDaMi?src=hash&amp;ref_src=twsrc%5Etfw">#KimDaMi</a> <a href="https://t.co/bY3eoXI55Q">https://t.co/bY3eoXI55Q</a> <a href="https://t.co/ZVHmDPDo58">pic.twitter.com/ZVHmDPDo58</a></p>&mdash; damshikbin (@damshikbin) <a href="https://twitter.com/damshikbin/status/1495767841664024579?ref_src=twsrc%5Etfw">February 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
