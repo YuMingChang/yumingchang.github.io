@@ -1,7 +1,21 @@
-# Testing
+# Stars
 
+## ChoiWooShik
+崔宇植，韓國男演員。十歲時隨家人移民至加拿大，後因演員夢想而回到韓國。2014年，憑藉電影《巨人》獲得釜山國際影展年度演員獎及青龍電影獎最佳男新人獎等獎項，演技備受肯定。隨後出演《屍速列車》、《寄生上流》等多部知名電影，因此打開知名度收穫不少人氣。
+  - 出生資訊： 1990 年 3 月 26 日（31歲），南韓首爾
+  - 身高： 1.81 公尺
+  - 經紀公司： JYP娛樂 (2012年—2018年); Management SOOP (2018年至今)
+  - 英文名： Edward
+  - 出道作品： 《夥伴》
+  - 兄弟姊妹： Choi Kyu-shik
+{% include_relative choiwooshik.html %}
 
-
-
-NOWAY
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I mean let’s not forget this one 💗 <a href="https://twitter.com/hashtag/OurBelovedSummer?src=hash&amp;ref_src=twsrc%5Etfw">#OurBelovedSummer</a> <a href="https://twitter.com/hashtag/ChoiWooSik?src=hash&amp;ref_src=twsrc%5Etfw">#ChoiWooSik</a> <a href="https://twitter.com/hashtag/ChoiwWooshik?src=hash&amp;ref_src=twsrc%5Etfw">#ChoiwWooshik</a> <a href="https://twitter.com/hashtag/KimDaMi?src=hash&amp;ref_src=twsrc%5Etfw">#KimDaMi</a> <a href="https://t.co/bY3eoXI55Q">https://t.co/bY3eoXI55Q</a> <a href="https://t.co/ZVHmDPDo58">pic.twitter.com/ZVHmDPDo58</a></p>&mdash; damshikbin (@damshikbin) <a href="https://twitter.com/damshikbin/status/1495767841664024579?ref_src=twsrc%5Etfw">February 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## KimDaMi
+金多美，韓國女演員。2018年，首次主演電影《魔女首部曲：誕生》即拿下大鐘獎、青龍電影獎等多項女新人獎，演技備受肯定；2020年，首次主演的電視劇《梨泰院Class》大受歡迎，更榮獲百想藝術大賞的女新人獎，再創事業巔峰。
+  - 出生資訊： 1995 年 4 月 9 日（26歲），南韓首爾
+  - 身高： 1.7 公尺
+  - 羅馬拼音： Kim Da-mi
+  - 出道作品： 《2017同名異人企劃》
+  - 代表作品： 2018年《魔女首部曲：誕生》; 2020年《梨泰院Class》; 2021年《那年，我們的夏天》
+  - 獲獎記錄： 百想藝術大賞電視部門最佳女新人獎， Blue Dragon Film Award for Best New Actress， 大鐘獎最佳新人女演員
+{% include_relative kimdami.html %}
